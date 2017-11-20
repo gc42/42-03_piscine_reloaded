@@ -1,0 +1,4 @@
+premiere ligne
+seconde ligne
+encore une ligne...
+derniere ligne de ce fichier.
